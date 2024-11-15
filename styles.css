@@ -588,9 +588,9 @@ footer a:link, footer a:visited{
 
 /*-------------------- MEDIA QUERY (xl 1280px)  ---------------------------------------*/
 
-@media (min-width: 1279px){
+@media (min-width: 1280px){
     body{
-        max-width: 1279px;
+        max-width: 1280px;
         margin: 0 auto;
     }
 
